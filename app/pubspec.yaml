@@ -1,0 +1,37 @@
+name: resq
+description: "ResQ - multilingual disaster alerts and emergency help for foreigners in Korea."
+publish_to: 'none'
+
+version: 2.0.0+2
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  csv: ^5.1.1
+  shared_preferences: ^2.5.5
+  uuid: ^4.5.3
+  url_launcher: ^6.2.0
+  # ── 추가 패키지 ──
+  qr_flutter: ^4.1.0      # 응급정보 QR 코드 표시
+  geolocator: ^14.0.0     # 현재 위치 (웹: 브라우저 위치 권한)
+  flutter_map: ^8.2.0     # 대피소 지도 (OpenStreetMap)
+  latlong2: ^0.9.1        # flutter_map 좌표 타입
+  flutter_tts: ^4.2.0     # 알림·한국어 문장 음성 읽기
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/embassy_utf8_C.txt
+    - assets/images/
+    - assets/i18n/

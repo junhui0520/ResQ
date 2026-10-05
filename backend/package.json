@@ -1,0 +1,32 @@
+{
+  "name": "resq-backend",
+  "version": "2.0.0",
+  "description": "ResQ - multilingual disaster alert & emergency support API for foreigners in Korea",
+  "main": "src/index.js",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "db:init": "node scripts/db-init.js",
+    "db:import-embassies": "node scripts/import-embassies.js",
+    "db:import-shelters": "node scripts/import-shelters.js",
+    "i18n:sync": "node scripts/sync-i18n.js",
+    "i18n:prewarm": "node scripts/prewarm-i18n.js",
+    "test": "node --test --test-concurrency=1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.0",
+    "helmet": "^8.1.0",
+    "mysql2": "^3.22.5",
+    "node-cron": "^4.2.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
+}

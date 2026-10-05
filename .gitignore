@@ -1,0 +1,15 @@
+# 비밀 정보
+.env
+**/.env
+
+# Node
+backend/node_modules/
+
+# Flutter (app/.gitignore 참고)
+app/build/
+app/.dart_tool/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

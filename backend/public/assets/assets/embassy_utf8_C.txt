@@ -1,0 +1,123 @@
+국기	공관명	주소	우편번호	전화번호	이메일	팩스번호	주한공관 유형
+🇬🇭	Ghana	120, Dokseodang-ro, Yongsan-gu, CPO Box 3887, Seoul	4420	3785-1427, 749-8982/3	ghanaembassy.seoul.kr@gmail.com	3785-1428	    
+🇳🇿	New Zealand	8F, Jeongdong Bldg., 21-15 Jeongdong-gil, Jung-gu, Seoul	4518	3701-7700	nzembsel@mfat.net	3701-7701	    
+🇸🇪	Sweden	8F, Danam Building, 10, Sowol-ro, Jung-gu, Seoul	4527	3703-3700	ambassaden.seoul@gov.se	3703-3701	    
+🇰🇭	Cambodia	14F. Booyoung Taepyeong Bldg, Sejongdaero 55, Jung-gu, Seoul	4513	3785-1046	camemb.kor@mfaic.gov.kh	3785-1040	    
+🇨🇦	Canada	21, Jeongdong-gil, Jung-gu, Seoul	4518	3783-6000	seoul@international.gc.ca	3783-6239	    
+🇰🇪	Kenya	38, Hoenamuro 44-gil, Yongsan-gu, Seoul	4346	3785-2903/4	info@kenya-embassy.or.kr	3785-2905	    
+🇨🇮	Côte d'Ivoire	19F, Booyoung Taepyeong Building, 55, Sejong-daero, Jung-gu, Seoul	4513	3785-0561/2	info.seoul@diplomatie.gouv.ci	3785-0564	    
+🇵🇰	Pakistan	51, Jangmun-ro, Youngsan-gu, Seoul	4392	796-8252/0312	protocol@pkembassy.or.kr	796-0316/0313	    
+🇵🇹	Portugal	2F, Wonseo Bldg., 13 Changdeokgung 1-gil, Jongno-gu, Seoul	3058	3675-2251/2/3	portseul@gmail.com	3675-2250	    
+🇪🇪	Estonia	13F, WeWork Seoul Square, 416, Hangang-daero, Jung-gu, Seoul	4637	010-6639-1150	embassy.seoul@mfa.ee	02-2220-8880	    
+🇯🇵	Consulate-General of Japan in Busan	18, Gogwan-ro, Dong-gu, Busan	48792	051)465-5104/5/6	cultural@pz.mofa.go.jp	051)464-1630	    
+🇵🇬	Papua New Guinea	#210, Doosan We  ve Pavilion Building, 81, Sambong-ro, Jongno-gu, Seoul	3150	2198-5771/2/3/4	pngembassy@kunduseoul.kr	2198-5780	    
+🇨🇩	Democratic Republic of the Congo	73-1, Hoenamu-ro, Yongsan-gu, Seoul	4344	722-7958	congokoreaembassy@gmail.com	722-7998	    
+🇬🇦	Gabon	4F, Yoosung Bldg., 239, Itaewon-ro, Yongsan-gu, Seoul	4348	793-9575/6	amgabsel@unitel.co.kr	793-9574	    
+🇬🇹	Guatemala	20F, Booyoung Taepyeong Bldg., Sejong-daero 55, Jung-gu, Seoul	4533	771-7582/3	embcorea@minex.gob.gt	771-7584	    
+🇻🇦	Holy See	19, Jahamun-ro 26-gil, Jongro-gu, Seoul	3047	736-5725 / 739-2310	anunciaturekr@gmail.com	736-5738	    
+🇬🇷	Greece	27F. Hanwha Bldg., 86 Cheonggyecheon-ro, Jung-gu, Seoul	4541	729-1400/1	gremb.sel@mfa.gr / greekemb@naver.com	729-1402	    
+🇳🇬	Nigeria	13, Jangmunro 6-gil, Yongsan-gu, Seoul	4393	797-2370 / 3280	chancery@nigerianembassy.or.kr	796-1848	    
+🇿🇦	South Africa	104, Dokseodang-ro, Yongsan-gu, Seoul	4420	2077-5900	admin.seoul@dirco.gov.za / political.seoul@dirco.gov.za	792-4856	    
+🇳🇱	Netherlands	10F, Jeongdong Bldg., 21-15 Jeongdong-gil, Jung-gu, Seoul	4518	311-8600	seo@minbuza.nl ; seo-az@minbuza.nl	311-8650	    
+🇳🇵	Nepal	19, Seonjam-ro 2gil, Seongbuk-gu, Seoul	2823	3789-9770/1	nepembseoul2015@gmail.com	736-8848	    
+🇳🇴	Norway	13F, Jeongdong Bldg., 21-15 Jeongdong-gil, Jung-gu, Seoul	4518	727-7100	emb.seoul@mfa.no	727-7199	    
+🇳🇮	Nicaragua	8F, Danam Tower, 10, Sowol-ro, Jung-gu, Seoul	4527	6272-1670	nicaseoul@gmail.com	6272-1671	    
+🇩🇰	Denmark	11F, Seoul Square Bldg., 416 Hangang-daero, Jung-gu, Seoul	4637	795-4187	selamb@um.dk	796-0986	    
+🇩🇴	Dominican Republic	19F, Taepyungro Bldg, 73, Sejong-daero, Jung-gu, Seoul	4514	756-3513	info@embadomkr.gob.do	756-3514	    
+🇩🇪	Germany	8F, Seoul Square, 416, Hangang-daero, Jung-gu, Seoul	4637	748-4114	info@seoul.diplo.de	748-4161	    
+🇹🇱	Timor-Leste	Suite 2401, 101D Lotte Castle President, 109 Mapo-daero, Mapo-gu, Seoul	4146	797-6151	timorleste.embseoul@gmail.com	797-6152	    
+🇱🇦	Laos	30-4, Daesagwan-ro 11-gil, Yongsan-gu, Seoul	4401	796-1713/4	laoembassy.seoul@gmail.com	796-1771	    
+🇱🇻	Latvia	29, Hannam-daero 36-gil, Yongsan-gu, Seoul	4417	2022-3800	embassy.seoul@mfa.gov.lv	2022-3803	    
+🇷🇺	Russia	43, Seosomun-ro 11gil, Jung-gu, Seoul	4516	318-2116/7/8	rembskorea@mid.ru	754-0417	    
+🇱🇧	Lebanon	5, Hoenamu-ro 41-gil, Yongsan-gu, Seoul	4344	794-6482~3	seoul.leb@foreign.gov.lb	794-6485	    
+🇷🇴	Romania	50, Jangmun-ro, Yongsan-gu, Seoul	4393	797-4924/ 790-3718	seoul@mae.ro	794-3114	    
+🇷🇼	Rwanda	#503, Sooyoung Bldg., 13, Hannam-daero 20-gil, Yongsan-gu, Seoul	4419	798-1052	infoseoul@embassy.gov.rw	798-1054	    
+🇱🇾	Libya	51, Jangmun-ro, Yongsan-gu, Seoul 04392	4392	797-6001/2	libya.o.home@gmail.com	797-6007	    
+🇲🇭	Marshall Islands	#837, Doosan We  ve Pavilion Bldg, 81, Sambong-ro, Jongno-gu, Seoul	3150	6951-3181	info@rmiembassykr.com	8240-2014	    
+🇲🇾	Malaysia	129, Dokseodang-ro, Yongsan-gu, Seoul	4419	2077-8600	mwseoul@kln.gov.my	794-5480	    
+🇲🇽	Mexico	17F, Twin Tree Tower, Tower B, 6 Yulgok-ro, Jogno-gu, Seoul	3142	798-1694	embcorea@sre.gob.mx	790-0939	    
+🇲🇦	Morocco	1F, Jangmun-ro 32, Yongsan-gu, Seoul	4393	793-6249/1479/7097	info@moroccoembassy.kr	792-8178	    
+🇲🇳	Mongolia	95, Dokseodang-ro, Yongsan-gu, Seoul	4419	798-3464	seoul@mfa.gov.mn	794-7605	    
+🇺🇸	United States	188 Sejong-daero, Jongno-gu, Seoul	3141	397-4114	embassyseoulpa@state.gov	738-8845	    
+🇲🇲	Myanmar	12, Hannam-daero 28-gil, Yongsan-gu, Seoul	4418	790-3814/5/6	seoul-embassy@mofa.gov.mm	790-3817	    
+🇧🇩	Bangladesh	17, Jangmun-ro 6-gil, Yongsan-gu, Seoul	4393	796-4056/7	mission.seoul@mofa.gov.bd	790-5313	    
+🇻🇪	Venezuela	17F, Gwanghwamun Bldg., 149, Sejong-daero, Jongno-gu, Seoul	3186	732-1546/7	embavenezcorea@gmail.com	732-1548	    
+🇻🇳	Vietnam	5F(Consular), 8F(Administration), 58, Jong-ro 5-gil, Jongno-gu, Seoul	3151	734-7948/ 720-5124 / 739-2065	vietnamembassyseoul@gmail.com	739-2064	    
+🇧🇪	Belgium	23, Itaewon-ro 45-gil, Yongsan-gu, Seoul	4349	749-0381/2/3/4	seoul@diplobel.fed.be	797-1688	    
+🇧🇾	Belarus	51, Itaewon-ro 45-gil, Yongsan-gu, Seoul	4348	2237-8171	korea@mfa.gov.by	2237-8174	    
+🇧🇴	Bolivia	20F, Booyoung Taepyougn Bldg, Sejongdaero 55, Jung-gu, Seoul	4513	318-1767/2767	embolseul@gmail.com	3789-2757	    
+🇧🇬	Bulgaria	102-8 Hannam-daero, Yongsan-gu, Seoul	4418	794-8625/6	embassy.seoul@mfa.bg	794-8627	    
+🇧🇷	Brazil	73 Cheongwadaero, Jongro-gu, Seoul	3054	738-4970	ambassador.seul@itamaraty.gov.br	738-4974	    
+🇧🇳	Brunei	133, Jahamun-ro, Jongno-gu, Seoul	3031	790-1078/9	seoul.korea@mfa.gov.bn / brunei.korea@gmail.com	790-1084	    
+🇸🇦	Kingdom of Saudi Arabia	37, Noksapyeong-daero 26-gil, Yongsan-gu, Seoul	4390	2022-7400	ksaemb.kr@gmail.com	739-0041	    
+🇸🇳	Senegal	#501, Coryo Daeyungak Tower, 97 Teogyero, Jung-gu, Seoul	4535	745-5554	senegalembassyseoul@gmail.com	745-5524	    
+🇷🇸	Serbia	22nd Floor, Booyoung Taepyeong Building, 55 Sejong-daero, Jung-gu, Seoul	4513	797-5109	embserbseul@yahoo.com	790-6109	    
+🇸🇩	Sudan	3F, Vivien Bldg., Seobinggoro-51gil 52, Yongsan-gu, Seoul	4384	793-8692	embsudankr@gmail.com	793-8693	    
+🇱🇰	Sri Lanka	39, Dongho-ro 10-gil, Jung-gu, Seoul	4590	735-2966/7/8	mission@slembkr.org	737-9577	    
+🇨🇭	Switzerland	77, Songwol-gil, Jongno-gu, Seoul	3165	739-9511	seoul@eda.admin.ch	737-9392	    
+🇪🇸	Spain	17, Hannam-daero 36-gil, Yongsan-gu, Seoul	4417	794-3581/2	emb.seul@maec.es	796-8207	    
+🇸🇰	Slovakia	28, Hannam-daero 10-gil, Yongsan-gu, Seoul	4420	794-3981	emb.seoul@mzv.sk	794-3982	    
+🇸🇱	Sierra Leone	63-3, Itaewon-ro 54 gil, Yongsan-gu, Seoul	4400	792-8911/2	info@sierra-leone.or.kr	792-7781	    
+🇸🇬	Singapore	28F, Seoul Finance Center, 136, Sejong-daero, Jung-gu, Seoul	4520	774-2464	singemb_seo@mfa.sg	773-2465	    
+🇦🇪	United Arab Emirates	118 ,Dokseodang-ro, Yongsan-gu, Seoul	4420	790-3235/7	seoulEMB@mofa.gov.ae	790-3238	    
+🇦🇷	Argentina	5F, Chunwoo Bldg., 206, Noksapyeong-daero, Yongsan-gu, Seoul	4345	796-8144	ecoresec@mrecic.gov.ar	792-5820	    
+🇮🇪	Ireland	13F, Leema Bldg., 42 Jongro 1-gil, Jongno-gu, Seoul	3152	721-7200	seoulembassy@dfa.ie	774-6458	    
+🇦🇿	Azerbaijan	63, Itaewon-ro 45-gil, Yongsan-gu, Seoul	4348	797-1765/6	azembseoul@gmail.com	797-1767	    
+🇦🇫	Afghanistan	90, Dokseodang-ro, Yongsan-gu, Seoul	4420	793-3535	seoul@mfa.af	795-2662	    
+🇩🇿	Algeria	81, Hoenamu-ro, Yongsan-gu, Seoul	4344	794-5034/5	dzemb@algerianemb.or.kr	794-5040	    
+🇦🇴	Angola	14, Seonjam-ro 5-gil, Seongbuk-gu, Seoul	2839	792-8463	secretariado@angolaembassy.or.kr	792-8467	    
+🇪🇨	Ecuador	16F, SC Bank Bldg, 47 Jongno, Jongno-gu, Seoul	3160	739-2401/2	eecucorea@cancilleria.gob.ec	739-2355	    
+🇪🇹	Ethiopia	20, Hoenamu-ro 44-gil, Yongsan-gu, Seoul	4346	790-9766/7	embassyethio@gmail.com	790-0156	    
+🇸🇻	El Salvador	20F, Booyoung Taepyeong Bldg.,55 Sejong-daero, Jung-gu, Seoul	4513	753-3432/3	embsalseoul@gmail.com	753-3456	    
+🇬🇧	United Kingdom	24, Sejong-daero 19-gil, Jung-gu, Seoul	4519	3210-5500	enquiry.seoul@fco.gov.uk	725-1738	    
+🇴🇲	Oman	9, Saemunan-ro 3-gil, Jongno-gu, Seoul	3175	790-2431/2	oman.kr@gmail.com	790-2430	    
+🇦🇹	Austria	21F, Kyobo Bldg., Jong-ro 1, Jongno-gu, Seoul	3154	721-1700	seoul-ob@bmeia.gv.at	732-9486	    
+🇭🇳	Honduras	9F, Cheonggye Hangook Bldg., 11 Cheongyechon-ro, Jongro-gu, Seoul	3187	738-8402	embassy@hondurasembassykr.com	738-8403	    
+🇯🇴	Jordan	6F, Twin Tree Tower B, 6, Yulgok-ro, Jongno-gu, Seoul	3142	318-2897/8	seoul@fm.gov.jo	318-3644	    
+🇺🇾	Uruguay	#706 Coryodaeyungak Tower, 97 Toegye-ro, Jung-gu, Seoul	4535	6245-3179/3180	urucoreadelsur@mrree.gub.uy	6245-3181	    
+🇺🇿	Uzbekistan	27, Daesagwan-ro 11-gil, Yongsan-gu, Seoul	4400	574-6554	uz.embassy.seoul@gmail.com	578-0576	    
+🇺🇦	Ukraine	21, Itaewon-ro 45-gil, Yongsan-gu, Seoul	4349	790-5696	emb_kr@mfa.gov.ua	790-5697/61	    
+🇪🇺	European Union	11F, Seoul Square, 416 Hangang-daero, Jung-gu, Seoul, Korea	4637	3704-1701	delegation-rep-of-Korea@eeas.europa.eu	739-3514	    
+🇮🇶	Iraq	55, Jangmun-ro, Yongsan-gu, Seoul	4392	790-4202/3/4	seoemb@mofa.gov.iq	790-4206	    
+🇮🇷	Iran	45, Jangmun-ro, Yongsan-gu, Seoul	4392	793-7751/2/3	iranssy@chol.com	792-7052	    
+🇮🇱	Israel	18F, Cheonggye 11 Bldg., 11 Cheonggyecheon-ro, Jongno-gu, Seoul	3187	3210-8500	info@seoul.mfa.gov.il	3210-8555	    
+🇪🇬	Egypt	114, Dokseodang-ro, Yongsan-gu, Seoul	4420	749-0787/9	embassy.seoul@mfa.gov.eg / egyptian.embassy.seoul@gmail.com	795-2588	    
+🇮🇹	Italy	3F, Ilshin Building, 98 Hannamdae-ro, Yongsan-gu, Seoul	4418	750-0200/1	embassy.seoul@esteri.it	797-5560	    
+🇮🇳	India	101, Dokseodang-ro, Yongsan-gu, Seoul	4419	798-4257/8	amb.seoul@mea.gov.in	796-9534	    
+🇮🇩	Indonesia	380 Yeouidaebang-ro, Yeoungdeungpo-gu, Seoul	7342	783-5675	seoul.kbri@kemlu.go.id	780-4280	    
+🇯🇵	Japan	8F, Twin Tree Tower A, 6, Yulgok-ro, Jongno-gu, Seoul	3142	2170-5200	info@so.mofa.go.jp	734-4528	    
+🇿🇲	Zambia	56, Itaewon-ro 27-gil, Yongsan-gu, Seoul	4349	793-1961	zamembseoul@gmail.com	793-1969	    
+🇬🇪	Georgia	30, Itaewon-ro 27-gil, Yongsan gu, Seoul	4349	792-7118/7171	seoul.emb@mfa.gov.ge	792-3118	    
+🇨🇳	Consulate-General of China in Gwangju	919-6, Wolsan-dong, Nam-gu, Gwangju	61610	062)385-8874	dalangchina@daum.net	062)385-8880	    
+🇷🇺	Consulate-General of Russia in Busan	8F, KEB-Hana Bank Bldg., Jungang-daero 94, Jung-Gu, Busan	48939	051)441-9904/5	ruspusan@mail.ru	051)464-4404	    
+🇲🇳	Consulate of Mongolia in Busan	#1410, Byuksan e-Centum Class One, 99, Centumdong-ro, Haeundae-gu, Busan	48059	051)465-9996	busan@mfa.gov.mn	051)465-9997	    
+🇺🇸	Consulate of the United States in Busan	#612, Lotte Gold Rose Bldg., 993, Joongang-daero, Busan	47209	051)863-0731/2	BusanApp@state.gov	051)863-0734	    
+🇨🇳	Consulate-General of China in Busan	25, Haeundae-ro 394 beon-gil, Haeundae-gu, Busan	48089	051)743-7990	chinaconsul_bu_kr@mfa.gov.cn	051)743-7987	    
+🇯🇵	Consulate-General of Japan in Jeju	3351,1100-ro, Jeju-si, Jeju-do	63083	064)710-9500	jeju@cj.mofa.go.jp	064)743-5544	    
+🇨🇳	Consulate-General of China in Jeju	10, Cheongsa-ro 1-gil, Jeju-si, Jeju-do	63219	064)900-8830/40	chinaconsul_jeju_kor@mfa.gov.  	064)900-8890	    
+🇨🇳	China	27, Myeongdong 2-gil, Jung-gu, Seoul	4536	738-1038		738-1077	    
+🇨🇿	Czech Republic	7F, B-Dong, K-Twin Towers, 50, Jongno 1-gil Jongno-gu, Seoul	3142	720-6765/6453	seoul@embassy.mzv.cz	734-6452	    
+🇨🇱	Chile	#1801, Coryo Daeyungak Tower, 97 Toegye-ro, Jung-gu, Seoul	4535	779-2610	corea@minrel.gob.cl	779-2615	    
+🇰🇿	Kazakhstan	53, Jangmun-ro, Yongsan-gu, Seoul	4392	379-9714/9716	seoul@mfa.kz	395-9766	    
+🇶🇦	Qatar	48, Jangmun-ro, Yongsan-gu, Seoul	4393	798-2444/5/6	qatarembassy@koreamail.com / seoul@mofa.gov.qa	790-1027	    
+🇨🇷	Costa Rica	#902, 9F, Coryo Daeyungak Tower, 97, Toegye-ro, Jung-gu, Seoul	4535	707-9249/9254	embcr-kr@rree.go.cr	703-8571	    
+🇨🇴	Colombia	11F, Kyobo Bldg., Jong-ro 1, Jongno-gu, Seoul	3154	720-1361/9	ecoreadelsur@cancilleria.gov.co	725-6959	    
+🇰🇼	Kuwait	34, Jangmun-ro, Yongsa-gu, Seoul	4393	3270-8715/6	info@kuwaitembassy.kr	749-3681/7	    
+🇭🇷	Croatia	#1302, 13F, Coryo Daeyungak Tower, 97 Toegye-ro, Jung-gu, Seoul	4535	310-9660	croemb.seoul@mvep.hr	310-9663	    
+🇰🇬	Kyrgyz Republic	16-10, Seobinggo-ro 91 ra-gil, Yongsan-gu, Seoul	4395	379-0951/2	kgembassy.kr@mfa.gov.kg	379-0953	    
+🇹🇯	Tajikistan	37, UN village-gil, Yongsan-gu, Seoul	4420	792-2535	tjkoreaemb@mfa.tj	716-0909	    
+🇹🇿	Tanzania	4F Vivian Bldg. 52, Seobingo-ro 51 gil, Yongsan-gu, Seoul	4384	793-7007	ss@tanzaniaembassy.kr	795-8990	    
+🇹🇭	Thailand	42, Daesagwan-ro, Yongsan-gu, Seoul	4402	795-0095/3098/3253	thaisel@mfa.go.th / thaiembassy.sel@mfa.mail.go.th	798-3448	    
+🇹🇷	Türkiye	40, Haedong bldg., Dongho-ro 20 Na-gil, Jung-gu, Seoul	4606	3780-1600	embassy.seoul@mfa.gov.tr	797-8546	    
+🇹🇲	Turkmenistan	62, Jangmun-ro, Yongsan-gu, Seoul	4349	796-9975	tmembassy.skr@gmail.com	796-9976	    
+🇹🇳	Tunisia	8, Jangmun-ro 6-gil, Yongsan-gu, Seoul	4393	790-4334/5	at.seoul@diplomatie.gov.tn	790-4333	    
+🇵🇦	Panama	1-134 Shinmunro 2-ga, Jongno-gu, Seoul / 49 Kyeongheegung-gil, Jongno-gu, Seoul	3176	734-8610/1	panama@embaseoul.kr	734-8612/3	    
+🇵🇾	Paraguay	22F, Booyoung Taepyeong Building, 55 Sejong-daero, Jung-gu, Seoul	4513	792-8335/1174	coreaembaparsc@mre.gov.py / pyemc3@gmail.com	792-8334	    
+🇵🇪	Peru	19F, Booyoung Taepyeong Bldg., 55, Sejong-daero, Jung-gu, Seoul	4513	757-1735/6/7	embaperu@peruembassy.kr	757-1738	    
+🇵🇱	Poland	20-1, Samcheong-ro, Jongno-gu, Seoul	3062	723-9681	seul.amb.sekretariat@msz.gov.pl	723-9680	    
+🇫🇷	France	18F Woori Bldg., 42 Chilpae-ro, Jung-gu, Seoul	4512	3149-4300	info.seoul-amba@diplomatie.gouv.fr	3149-4327	    
+🇫🇯	Fiji	2F, 64 Hoenamu-ro, Yongsan-gu, Seoul	4346	792-6396	info@fijiembassy.co.kr	792-6397	    
+🇫🇮	Finland	18F, Kyobo Bldg., Jong-ro 1, Jongno-gu, Seoul	3154	3701-0300	sanomat.seo@formin.fi	723-4969	    
+🇵🇭	Philippines	80 Hoenamu-ro, Yongsan-gu, Seoul	4346	796-7387/8/9	seoulpe@philembassy-seoul.com	796-0827	    
+🇭🇺	Hungary	58 Jangmun-ro, Yongsan-gu, Seoul	4393	792-2105	mission.sel@mfa.gov.hu	792-2109	    
+🇦🇺	Australia	19F, Kyobo Bldg., Jong-ro 1, Jongro-gu, Seoul	3154	2003-0100	seoul-inform@dfat.gov.au	2003-0196	    
