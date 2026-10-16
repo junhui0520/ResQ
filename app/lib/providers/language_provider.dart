@@ -52,6 +52,11 @@ class LanguageProvider extends ChangeNotifier {
     _strings = Map.of(_base);
     final prefs = await SharedPreferences.getInstance();
     _onboarded = prefs.getBool(_prefOnboarded) ?? prefs.containsKey(_prefLang);
+    // 웹: 링크로 들어올 때마다 언어 선택(온보딩) 화면부터 표시 (시연·공유용).
+    //     이전에 고른 언어는 미리 선택되어 있음. 주소 끝에 ?onboarding=0 을 붙이면 첫 실행 때만 표시.
+    if (kIsWeb && Uri.base.queryParameters['onboarding'] != '0') {
+      _onboarded = false;
+    }
     final savedLang = prefs.getString(_prefLang) ?? AppStrings.baseLanguage;
     if (savedLang != AppStrings.baseLanguage) {
       await setLanguage(savedLang, force: true);
